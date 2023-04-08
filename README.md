@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahedi hassan nir</h1>
 <h3 align="center">learner</h3>
-
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedi6666655555&label=Profile%20views&color=0e75b6&style=flat" alt="mahedi6666655555" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
